@@ -1,13 +1,13 @@
-Electrical_Control_CCS_Template
+# Electrical_Control_CCS_Template
 
 
-FreeRTOS ready
+* FreeRTOS ready
 
 
-Debug configurations ready
+* Debug configurations ready
 
 
-Compiler/Linker Configurations ready
+* Compiler/Linker Configurations ready
 
 
-LED working Sample
+* LED working Sample
